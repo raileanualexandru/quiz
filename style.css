@@ -1,0 +1,21 @@
+.quiz{
+    margin-top: 50px;
+    margin-left: 200px;
+    background-color: burlywood;
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.quizBtn{
+    width: 130px;
+    height:70px;
+    border: 1px solid rgb(25, 25, 42);
+    margin-top: 150px;
+    margin-left:50px;
+}
+.score{
+    margin-top: 100px;
+    display: flex;
+    background-color: rgb(108, 166, 177);
+}
